@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header-section{
+    width: 100%;
+    height: 700px;
+    background-image: url("./images/header-bg.png");
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 10% 0% 0% 5%;
+    padding-left: 2%;
+}
+.half-width p{
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 30px;
+}
+span{
+    font-size: 50px;
+    font-weight: bolder;
+    color: #FF438D;
+}
+.link-button{
+    background-color: #FF438D;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 5px;
+}
+
+/* Biography Section Start */
+.biography-section{
+    background-image: url("./images/biography-bg.png");
+    height: 900px;
+}
+.biography-box{
+    margin-top: 18%;
+}
+.working-section {
+    clear: both;
+    width: 100%;
+}
+.working-section img {
+    width: 23%;
+    margin: 0% 5%;
+}
+.leatest-work{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.client-section{
+    margin-top: 150px;
+}
+.client-section 
+h1,
+h3,
+h4,
+p{
+    text-align: center;
+}
+.contact-div{
+    width: 60%;
+    height: 180px;
+    margin: 10% 20%;
+    background-color: #FF438D;
+    border-radius: 20px;
+}
+.contact-div 
+h2{
+    color: white;
+    text-align: center;
+}
+.contact-div h3{
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+}
